@@ -18,22 +18,15 @@ The Centennial Ritual has withstood the test of time. Though official records on
 
 Its purpose is singular: to keep **[[O - The Sleeping Deep|something]]** asleep beneath the city. Its nature is uncertain. Oral traditions describe it as a writhing mass of coral-like structures, but accounts vary. The only certainty is its influence - each failure has coincided with a violent reshaping of San Magdalena’s fate.
 
-<div class="callout info">
-<div class="callout-title">💡 The two failures</div>
-<hr/>
-<p>16th Century: First failure aligns with Spanish colonization, erasing much of the island's native Practices.</p>
-<p>20th Century: Second failure coincides with Japanese occupation, shifting wealth and power irreversibly to the north.</p>
-
-<details>
-<summary>⚠️ <strong>Signs of a third failure have already begun</strong></summary>
-<hr/>
-<ul>
-<li>The tunnels beneath San Magdalena shift, leading to places that should not exist.</li>
-<li>Fishermen have begun pulling up things from the sea - things that should have stayed buried.</li>
-<li>The air in Kabigat Forest is too still, too sharp, as if the trees themselves are listening.</li>
-</ul>
-</details>
-</div>
+> [!info] **The two failures**
+> ---
+> 16th Century: First failure aligns with Spanish colonization, erasing much of the island’s native Practices.
+> 20th Century: Second failure coincides with Japanese occupation, shifting wealth and power irreversibly to the north.
+>> [!warning]- **Signs of a third failure have already begun**
+>> ---
+>> - The tunnels beneath San Magdalena shift, leading to places that should not exist.
+>> -  Fishermen have begun pulling up things from the sea - things that should have stayed buried.
+>> -  The air in Kabigat Forest is too still, too sharp, as if the trees themselves are listening.
 
 If the ritual fails again, the consequences may well be worse than war. The Practitioners of San Magdalena have little time. They must uncover what went wrong - before the next ritual begins. Before it wakes.
 # The City of San Magdalena
