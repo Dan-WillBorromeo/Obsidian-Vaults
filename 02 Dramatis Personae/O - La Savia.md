@@ -1,0 +1,5 @@
+#NPC, #Other, #Law, #Spirits 
+
+Once a diwata known as **Pu'un Urat** guarding the islands as a whole, guiding its inhabitants. Before, she would heal the people and turn the worthy into trees in her forest, so they may watch over the island as she does. This changed when a Spanish practitioner twisted her into La Savia early on in the country's colonization. Now, she twists flesh to harm and turns trespassers into forever aware trees. **La Savia** currently resides in the **[[Geographic Features#Kabigat Forest Reserve|Kabigat Forest]]**, and the **Cortez Corporation** helps clean up her messes by disguising it as products of contact with hallucinogenic fungi.
+
+She is currently the patron of **[[P - Emiliana M. Cortez|Emiliana Cortez]]**, the aging CEO of Cortez Corporation - although none know this beyond the pair. La Savia hopes to wake up the thing below, as it is the only Other older than herself on the island, in the hopes that it would help her become Pu'un Urat again. 

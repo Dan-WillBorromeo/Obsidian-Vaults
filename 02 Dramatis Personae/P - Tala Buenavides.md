@@ -1,0 +1,5 @@
+#NPC #Practitioner #NewBlood, #Hollow, #MagicItem
+
+A young and reckless cryptozoologist who stores magic within herself, carving away pieces of her own Self in the process. As a youth, she was taken in by the **[[O - Nuno sa Punso|Nuno]]**, and granted a grimoire before they let her go. She could be a powerful asset within the right hands.
+
+Though her reckless nature and deep curiosity make her a nightmare to work with, Tala has managed to carve out a place (both figuratively and literally) in San Magdalena’s supernatural underbelly. The [[P - SMU Circle|Circle]] sees her as a dangerous loose end that could be a great tool if utilized properly, [[P - Emiliana M. Cortez|Emiliana]] watches her too closely, and the [[O - Nuno sa Punso|Nuno]] - the ones who let her go - wait patiently for the day she remembers the right way back.

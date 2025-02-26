@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "c4e9a06977f41285",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c4f5d010943a9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c849ca454fcac50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Overview/A. Setting Bible.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A. Setting Bible"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53bb9f072c7d4400",
+    "type": "split",
+    "children": [
+      {
+        "id": "16145f446f3906ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "083dd09ea8378baf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "553635da6f25f473",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b45a0770d071201f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6306057ff22d5ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bd353f8b782b2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86f5eb4695b8893b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Locations/01.B Geographic Features/Kabigat Forest Reserve.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kabigat Forest Reserve"
+            }
+          },
+          {
+            "id": "79ee379e9a60b937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Locations/01.B Geographic Features/Kabigat Forest Reserve.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kabigat Forest Reserve"
+            }
+          },
+          {
+            "id": "7d5b12063aca0735",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b085a5461eec3fd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Locations/01.B Geographic Features/Kabigat Forest Reserve.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kabigat Forest Reserve"
+            }
+          },
+          {
+            "id": "e448e728b4afe302",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "vault-2-book:Obsidian 2 Book: Generate a book from a specified folder": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "c849ca454fcac50d",
+  "lastOpenFiles": [
+    "Syncs",
+    "00 Github Repo",
+    "0 Repo/00 Images/San Magdalena Map.png",
+    "0 Repo/00 Images/San Magdalena Map - Annotated.png",
+    "0 Repo/00 Images",
+    "0 Repo",
+    "01 Overview/Tourist Pamphlet & Travel Guide.md",
+    "New Text Document.txt",
+    "00 Images/Untitled.md",
+    "San Magdalena - Otherverse_book.md",
+    "San Magdalena - Otherverse.md",
+    "01 Overview/A. Setting Bible.md",
+    "01 Overview/Travel Guide.md",
+    "03 Locations/Barangay Lambat.md",
+    "01 Overview/B. Economy & Transport System.md",
+    "02 Dramatis Personae/O - The Sleeping Deep.md",
+    "San Magdalena.md",
+    "02 Dramatis Personae/P - Tala Buenavides.md",
+    "02 Dramatis Personae/P - SMU Circle.md",
+    "02 Dramatis Personae/O - La Savia.md",
+    "02 Dramatis Personae/P - Kannoyan Market Initiative.md",
+    "02 Dramatis Personae/P - Hiraya Simmons.md",
+    "02 Dramatis Personae/P - Emiliana M. Cortez.md",
+    "02 Dramatis Personae/O - Nuno sa Punso.md",
+    "02 Dramatis Personae/O - Kataw.md",
+    "02 Dramatis Personae/O - Aswang.md",
+    "03 Locations/Manmade Areas.md",
+    "01 Locations/01.C Manmade Areas/Underground Tunnel Network.md",
+    "01 Locations/01.C Manmade Areas/Tiburon Aquatic Park.md",
+    "01 Locations/01.C Manmade Areas/San Magdalena University.md",
+    "03 Locations/Geographic Features.md",
+    "03 Locations/Barangay Tiwarik.md",
+    "00 Images/San Magdalena Map.png",
+    "00 Images/San Magdalena Map - Annotated.png",
+    "02 Dramatis Personae/02.A Others",
+    "02 Dramatis Personae/02.B Practitioners",
+    "00 Images",
+    "01 Locations/01.A Barangays/Northern Island",
+    "01 Locations/01.A Barangays/Southern Island",
+    "01 Overview"
+  ]
+}

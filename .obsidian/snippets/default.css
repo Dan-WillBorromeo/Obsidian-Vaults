@@ -1,0 +1,154 @@
+/* ========== Global Styles ========== */
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+}
+
+/* ========== Headings ========== */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 2em;
+    color: #f38ba8;
+    border-bottom: 2px solid #f38ba8;
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-size: 1.75em;
+    color: #fab387;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #f9e2af;
+}
+
+/* ========== Paragraphs ========== */
+p {
+    margin: 1em 0;
+}
+
+/* ========== Lists ========== */
+ul, ol {
+    padding-left: 1.5em;
+}
+
+ul li::before {
+    content: "•";
+    color: #f5c2e7;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
+ol li {
+    counter-increment: list-counter;
+}
+
+ol li::marker {
+    color: #f5c2e7;
+    font-weight: bold;
+}
+
+/* ========== Links ========== */
+a {
+    color: #89b4fa;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #f5c2e7;
+}
+
+/* ========== Code Blocks & Inline Code ========== */
+code {
+    background-color: #45475a;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-family: 'Fira Code', monospace;
+    color: #f5c2e7;
+}
+
+pre {
+    background-color: #313244;
+    padding: 15px;
+    border-radius: 8px;
+    overflow-x: auto;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+/* ========== Blockquotes ========== */
+blockquote {
+    border-left: 4px solid #89b4fa;
+    padding: 10px 15px;
+    background-color: #313244;
+    font-style: italic;
+    color: #a6adc8;
+}
+
+/* ========== Callouts ========== */
+.callout {
+    border-left: 4px solid #f5c2e7;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+    background-color: #313244;
+}
+
+.callout-title {
+    font-weight: bold;
+    color: #f5c2e7;
+}
+
+.callout-content {
+    color: #cdd6f4;
+}
+
+/* ========== Tables ========== */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #45475a;
+    text-align: left;
+}
+
+th {
+    background-color: #313244;
+    color: #fab387;
+}
+
+td {
+    background-color: #1e1e2e;
+}
+
+/* ========== Task Lists (Checkboxes) ========== */
+input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    border: 2px solid #f38ba8;
+    border-radius: 4px;
+    vertical-align: middle;
+}
+
+input[type="checkbox"]:checked {
+    background-color: #f38ba8;
+}
