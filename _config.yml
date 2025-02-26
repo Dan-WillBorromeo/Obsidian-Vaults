@@ -1,0 +1,30 @@
+title: "San Magdalena"
+description: "A setting bible for my worldbuilding project."
+baseurl: "/Obsidian-Vaults"
+url: "https://dan-willborromeo.github.io"
+
+theme: minima 
+
+markdown: kramdown # Ensures Markdown files are processed correctly
+
+plugins:
+  - jekyll-feed # Enables Atom feed
+  - jekyll-seo-tag # Improves SEO
+  - jekyll-sitemap # Generates a sitemap
+
+# Allow all Markdown files to be converted into pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude unnecessary files
+github:
+  is_project_page: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
