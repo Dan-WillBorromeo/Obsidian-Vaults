@@ -1,18 +1,21 @@
 title: "San Magdalena"
 description: "A setting bible for my worldbuilding project."
-baseurl: "/Obsidian-Vaults"
-url: "https://dan-willborromeo.github.io"
+baseurl: "/Obsidian-Vaults" 
+url: "https://dan-willborromeo.github.io" 
 
-theme: minima 
+theme: minima  
 
-markdown: kramdown # Ensures Markdown files are processed correctly
+# Markdown processing settings
+markdown: kramdown
+permalink: pretty  # Ensures URLs are clean (no .html in links)
 
+# Plugins for better functionality
 plugins:
-  - jekyll-feed # Enables Atom feed
-  - jekyll-seo-tag # Improves SEO
-  - jekyll-sitemap # Generates a sitemap
+  - jekyll-feed       # RSS feed generation
+  - jekyll-seo-tag    # Better SEO metadata
+  - jekyll-sitemap    # Auto-generates a sitemap.xml
 
-# Allow all Markdown files to be converted into pages
+# Defaults to apply to all pages
 defaults:
   - scope:
       path: ""
@@ -20,11 +23,17 @@ defaults:
     values:
       layout: "page"
 
-# Exclude unnecessary files
-github:
-  is_project_page: true
+# Fix internal linking issues (for Jekyll pages)
+relative_permalinks: false
 
+# Exclude unnecessary files from the build
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - node_modules/
+  - _notes/ 
+  - .obsidian/  
+
+github:
+  is_project_page: true
