@@ -1,4 +1,4 @@
-#NPC #Practitioner #NewBlood, #Hollow, #MagicItem
+#Practitioner #NewBlood, #Hollow, #MagicItem
 
 A young and reckless cryptozoologist who stores magic within herself, carving away pieces of her own Self in the process. As a youth, she was taken in by the **[[O - Nuno sa Punso|Nuno]]**, and granted a grimoire before they let her go. She could be a powerful asset within the right hands.
 

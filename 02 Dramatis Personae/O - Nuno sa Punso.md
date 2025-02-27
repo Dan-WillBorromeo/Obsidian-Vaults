@@ -1,4 +1,4 @@
-#NPC, #Other, #Spirits 
+#Other, #Spirits 
 
 Small, size-changing creatures that live within mounds of dirt and are very vindictive. They live and travel with others of their kind, and demand respect and deferment. When offended, they are maliciously vindictive. They harm in the way they are harmed, and aid in the way they are aided.  They are primarily allied with [[P - Tala Buenavides|Tala Buenavides]]. 
 

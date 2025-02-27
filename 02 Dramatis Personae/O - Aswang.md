@@ -1,4 +1,4 @@
-#NPC, #Other, #Rapacious 
+#Other, #Rapacious 
 
 Predatory beings who live among humans. In the mornings, they appear as normal people - albeit when looked in the eye, your reflection would be upside down. They are nominal allies of the **[[P - SMU Circle|Mangubat]]** family. Most are flesh-eating, some in the literal sense and others in the metaphorical sense. 
 

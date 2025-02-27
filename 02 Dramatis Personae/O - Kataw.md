@@ -1,4 +1,4 @@
-#NPC, #Other , #Spirits 
+#Other , #Spirits 
 
 Water spirits often mistaken for mermaids or sirens found around the [[Geographic Features#San Magdalena Coast|San Magdalena Coast]]. They are shapeshifting, able to assume a human, fish, or hybrid form, and have control over the waters they guard. They aid and harm in equal measure.
 

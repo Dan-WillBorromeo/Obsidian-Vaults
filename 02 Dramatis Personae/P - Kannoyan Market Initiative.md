@@ -1,4 +1,4 @@
-#NPC #NewBlood #Practitioner, #MagicItem 
+#NewBlood #Practitioner, #MagicItem 
 
 Neither a family nor a coven, but a collective of entrepreneurial collectors, scavengers, and crafters. They originated from outside the city, roaming around the country to sell their wares, but something has made them stay in San Magdalena. Currently, the Initiative is taking advantage of **[[Barangay Kannoyan]]**'s shifting night market as a venue.
 
