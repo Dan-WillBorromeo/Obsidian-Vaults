@@ -1,6 +1,6 @@
 #NPC, #Other , #Law , #Knots
 
-An Other of immense size made of writhing coral-like structures, kept sleeping underneath **San Magdalena** via the **Centennial Ritual**.
+An Other of immense size made of writhing coral-like structures, kept sleeping underneath **San Magdalena** via the **[[A. Setting Bible#The Centennial Ritual|Centennial Ritual]]**.
 
 > [!danger] **What is known**
 > ---

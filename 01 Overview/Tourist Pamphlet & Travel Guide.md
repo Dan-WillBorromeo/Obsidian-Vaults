@@ -42,6 +42,8 @@ San Magdalena is famous for its lively festivals! Plan your visit around these e
 > - **Coconut Rice Cakes**: Sweet treats wrapped in banana leaves, a true taste of tradition.
 > - **Sea Urchin Ceviche**: A fresh and zesty seafood dish unique to the island’s coastal cuisine.
 
+^a80dd9
+
 ---
 >[!tip] **Getting Around**
 >---

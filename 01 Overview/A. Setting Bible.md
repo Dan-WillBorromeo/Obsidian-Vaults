@@ -34,10 +34,12 @@ If the ritual fails again, the consequences may well be worse than war. The Prac
 San Magdalena is a coastal island city, divided in both geography and identity. The southern island is a dense, urbanized center of commerce, tourism, and academia, while the northern island remains affluent yet secluded, its forests and lakes untouched by modernization. A single railway bridge - the last of many that once connected the two islands - now serves as the city’s only link.
 
 Though historically a fishing hub, its economy has shifted toward tourism, research, and trade. Yet beneath its modern veneer, San Magdalena harbors a deeper, hidden world. Others live unseen among the Innocents, their existence known only to a few. Practitioners struggle to maintain what little influence remains.
+
 ## City Structure
 
 San Magdalena is divided into seven barangays, each shaped by history, geography, and supernatural influence.
-![[San Magdalena Map.png]]
+
+ ![[San Magdalena Map.png|460]]
 ### Southern Island
  The southern island is the city’s commercial and academic heart, home to **[[Manmade Areas#San Magdalena University|San Magdalena University]]**, the port, and the **[[Manmade Areas#Tiburon Aquatic Park|Tiburon Aquatic Park]]**. It is dense, modern, and always in motion.
  
@@ -64,6 +66,7 @@ The origins of the **centennial ritual** trace back beyond recorded history. Ora
 ## Spanish Colonial Period (1565-1898)
 Colonization reshaped San Magdalena, introducing new infrastructure and religious influence while eroding native Practices.
 
+Timeline
 - **1565**: First Spanish settlement established.
 - **1647**: Original inter-island bridges constructed.
 - **1672**: First official documentation of **La Savia** incidents, though dismissed as native superstition.
