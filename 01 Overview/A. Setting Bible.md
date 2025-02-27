@@ -61,39 +61,103 @@ The northern island is home to San Magdalena’s wealthiest residents, as well a
  > - **[[Barangay Tiwarik]]:** A barangay of contrasts, where residential land meets untouched wilderness. **[[Geographic Features#Mount Oriol|Mount Oriol]]** looms over its western boundary, its caves officially restricted. Local guides tell of pathways that shift, leading deeper than they should.
  
 # Timeline
-## Pre-Colonial Era (Prior to 1565)
-The origins of the **centennial ritual** trace back beyond recorded history. Oral accounts suggest it was established long before the arrival of colonial forces, though its original form remains speculative. The first known tunnel networks beneath the island were constructed during this period, with no surviving documentation of their intended purpose. Indigenous settlements thrived on both islands, establishing trade routes and maritime practices that persist in altered forms today. This era also marks the first recorded manifestations of **[[O - La Savia|La Savia]]**, though under a different name.
-## Spanish Colonial Period (1565-1898)
-Colonization reshaped San Magdalena, introducing new infrastructure and religious influence while eroding native Practices.
 
-Timeline
-- **1565**: First Spanish settlement established.
-- **1647**: Original inter-island bridges constructed.
-- **1672**: First official documentation of **La Savia** incidents, though dismissed as native superstition.
-- **1754**: Establishment of the first Catholic mission, precursor to **[[Barangay Sukab#Schools|St. Magdalena Catholic School]]**. La Savia entity given name by Spanish Practitioners living in [[Barangay Kabigat]].
-- **1887**: First organized fishing guilds formed, implementing protocols that closely resemble pre-colonial maritime offerings.
-## American Colonial Period (1898-1946)
-Modernization efforts accelerated during this period, though unexplained anomalies continued to be recorded.
+```timeline
+[line-3, body-2]
++ pre 1565
++ Pre-Colonial Era
++ The origins of the **centennial ritual** trace back beyond recorded history. Oral accounts suggest it was established long before the arrival of colonial forces, though its original form remains speculative. The first known tunnel networks beneath the island were constructed during this period, with no surviving documentation of their intended purpose. Indigenous settlements thrived on both islands, establishing trade routes and maritime practices that persist in altered forms today. This era also marks the first recorded manifestations of **[[O - La Savia|La Savia]]**, though under a different name.
 
-- **1901**: Establishment of the **public education system**. Modern barangay system established.
-- **1912**: Foundation of **[[Manmade Areas#San Magdalena University|San Magdalena University]]**. 
-- **1925**: First recorded research expedition into the **[[Geographic Features#Mount Oriol|Mount Oriol]] cave system**.
-- **1932**: **Mysterious destruction of the original inter-island bridges**. The cause was never determined, though early reports reference **unusual environmental disturbances**.
-- **1935**: Construction of the **current bridge**. Initial construction of **[[Barangay Katang|Kagitingan Military Base]]**.
-- **1941**: Documentation of **unusual phenomena** during military operations. Reports classified.
-## Japanese Occupation and Post-War Era (1942-1960)
-The war disrupted the island’s established power structures, triggering shifts in wealth and influence.
++ 1565
++ Spanish colonization began
++ First Spanish settlement established.
 
-- **1942**: **Japanese occupation begins**, forcing northern wealth migration southward.
-- **1945**: Liberation of the island. Bridge damage limits inter-island movement for years.
-- **1958**: **Cortez Corporation** regional office founded.
-## Modern Development (1961-Present)
-San Magdalena entered a new era of regulated expansion, though **traditional safeguards quietly remained in place**.
++ 1647
++ Inter-island bridges
++ Original inter-island bridges constructed.
 
-- **1961**: **[[Geographic Features#Kabigat Forest Reserve|Kabigat Forest Reserve]]** protection protocols enacted.
-- **1975**: Specialized **transit authority procedures** implemented; certain ferry routes and rail operations require unspecified “cultural clearances.”
-- **1985**: Opening of **[[Manmade Areas#Tiburon Aquatic Park|Tiburon Aquatic Park]]**, coinciding with **documented marine behavioral anomalies**.
-- **1992**: Establishment of **current educational zoning system**; multiple university records sealed without explanation.
-- **2005**: Traditional **ritual practices integrated into municipal infrastructure protocols** under the guise of cultural preservation.
-- **2007**: First recorded **tunnel shifts beneath San Magdalena University**; officially attributed to **soil movement**, though patterns suggest otherwise.
-- **2011**: The **centennial ritual approaches**; unexplained phenomena escalate across the island.
++ 1672
++ La Savia incidents
++ First official documentation of **La Savia** incidents, though dismissed as native superstition.
+
++ 1754
++ Catholic mission
++ Establishment of the first Catholic mission, precursor to **[[Barangay Sukab#Schools|St. Magdalena Catholic School]]**. La Savia entity given name by Spanish Practitioners living in **[[Barangay Kabigat]]**.
+
++ 1887
++ Fishing guilds
++ First organized fishing guilds formed, implementing protocols that closely resemble pre-colonial maritime offerings.
+
++ 1898
++ American Colonization Period begins
++ Although the country fought for its independence, the Spanish sell the Philippines to America for profit. They fight against the new colonizers, but ultimately lose.
+
++ 1901
++ Education system
++ Establishment of the **public education system**. Modern barangay system established.
+
++ 1912
++ San Magdalena University
++ Foundation of **[[Manmade Areas#San Magdalena University|San Magdalena University]]**.
+
++ 1925
++ Mount Oriol research
++ First recorded research expedition into the **[[Geographic Features#Mount Oriol|Mount Oriol]] cave system**.
+
++ 1932
++ Bridge destruction
++ **Mysterious destruction of the original inter-island bridges**. The cause was never determined, though early reports reference **unusual environmental disturbances**.
+
++ 1935
++ New bridge & military base
++ Construction of the **current bridge**. Initial construction of **[[Barangay Katang|Kagitingan Military Base]]**.
+
++ 1941
++ Military anomalies
++ Documentation of **unusual phenomena** during military operations. Reports classified.
+
++ 1942
++ Japanese Occupation & Post-War Era
++ The war disrupted the island’s established power structures, triggering shifts in wealth and influence.
+
++ 1942
++ Japanese occupation
++ **Japanese occupation begins**, forcing northern wealth migration southward.
+
++ 1945
++ Liberation & bridge damage
++ Liberation of the island. Bridge damage limits inter-island movement for years.
+
++ 1958
++ Cortez Corporation
++ **Cortez Corporation** regional office founded.
+
++ 1961
++ Modern Development
++ San Magdalena entered a new era of regulated expansion, though **traditional safeguards quietly remained in place**. </br> **[[Geographic Features#Kabigat Forest Reserve|Kabigat Forest Reserve]]** protection protocols enacted.
+
++ 1975
++ Transit authority protocols
++ Specialized **transit authority procedures** implemented; certain ferry routes and rail operations require unspecified “cultural clearances.”
+
++ 1985
++ Tiburon Aquatic Park
++ Opening of **[[Manmade Areas#Tiburon Aquatic Park|Tiburon Aquatic Park]]**, coinciding with **documented marine behavioral anomalies**.
+
++ 1992
++ Education zoning
++ Establishment of **current educational zoning system**; multiple university records sealed without explanation.
+
++ 2005
++ Rituals in infrastructure
++ Traditional **ritual practices integrated into municipal infrastructure protocols** under the guise of cultural preservation.
+
++ 2007
++ Tunnel shifts
++ First recorded **tunnel shifts beneath San Magdalena University**; officially attributed to **soil movement**, though patterns suggest otherwise.
+
++ 2011
++ Centennial ritual approaches
++ The **centennial ritual approaches**; unexplained phenomena escalate across the island.
+
+```
