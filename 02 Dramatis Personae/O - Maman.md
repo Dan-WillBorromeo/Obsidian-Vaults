@@ -1,0 +1,1 @@
+A creature born from a Soul being killed after separating from the physical body. It is unseen to the naked eye, only viewable under red light, and can cause sickness.
